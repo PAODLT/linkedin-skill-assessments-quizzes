@@ -102,13 +102,13 @@
 ### Q17. What feature do you configure if you want to track transactions, order values, shopping cart behavior, and product performance?
 - [ ] campaigns
 - [ ] revenue
-- [ ] ecommerce
+- [x] ecommerce
 - [ ] ROAS (Return On Ad Spend)
 
 ### Q18. What is an example of data you cannot track in Google Analytics?
 - [ ] page speed score
 - [ ] return on advertising spend
-- [ ] precise user latitude/longitude data
+- [x] precise user latitude/longitude data
 - [ ] time on site
 
 ### Q19. If you create a new user at the property level, what does the user inherit access to?
@@ -148,7 +148,7 @@
 - [ ] Use a secondary dimension.
 
 ### Q25. If you are collecting campaign data, which report shows the results?
-- [ ] Acquisition > Campaigns > All Campaigns
+- [x] Acquisition > Campaigns > All Campaigns
 - [ ] Audience > Custom > Custom Variables
 - [ ] Conversions > Goals > Overview
 - [ ] Behavior > Events > Overview
@@ -168,14 +168,14 @@
 ### Q28. In the following URL, what channel grouping is traffic assigned to? example.com/?utm_source=google&utm_medium=cpc&utm_campaign=315
 - [ ] Organic Search
 - [ ] Google
-- [ ] Paid Search
+- [x] Paid Search
 - [ ] Display
 
 ### Q29. What is the relationship between an event and an event goal?
 - [ ] An event goal must be created in order to track events.
 - [ ] Nothing, an event is another name for event goal.
 - [ ] An event is captured per user; an event goal is captured per session.
-- [ ] An event is a user interaction; an event goal is triggered by a selected event.
+- [x] An event is a user interaction; an event goal is triggered by a selected event.
 
 ### Q30. When configuring the global site tag, where in the HTML should it be placed?
 - [ ] directly before the </head> tag
@@ -293,7 +293,7 @@
 
 ### Q49. What is an example of a property in Google Analytics?
 - [ ] account
-- [ ] website
+- [x] website
 - [ ] graph
 - [ ] custom report
 
@@ -306,7 +306,7 @@
 ### Q51. What is the hierarchy between sessions, users, and hits?
 - [ ] User > Session > Hit
 - [ ] Session > Hit > User
-- [ ] Session > User > Hit
+- [x] Session > User > Hit 
 - [ ] User > Hit > Session
 
 ### Q52. Which feature would allow you to navigate between multiple reports while comparing the data collected for visitors in Los Angeles to the data for visitors in London?
@@ -352,7 +352,7 @@
 - [ ] filling out a contact form after reading a social post
 
 ### Q59. What parameter should you use if you were tracking different versions of an ad?
-- [ ] utm_campaign
+- [x] utm_campaign not sure 100%
 - [ ] utm_medium
 - [ ] utm_term
 - [ ] utm_content
