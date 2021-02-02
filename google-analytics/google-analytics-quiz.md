@@ -293,7 +293,7 @@
 
 ### Q49. What is an example of a property in Google Analytics?
 - [ ] account
-- [ ] website
+- [x] website
 - [ ] graph
 - [ ] custom report
 
