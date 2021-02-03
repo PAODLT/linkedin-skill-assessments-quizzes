@@ -76,3 +76,11 @@ C. Read receipts are expensive, so some organizations turn them off.
 - [ ] an alert
 - [ ] a notice
 - [ ] a bell icon
+
+#### 13.Which is Not a good reason to create a new calendar?
+- (x) to have different vieof your calendar
+- ( ) to keep track to personal events in a work settings
+- ( ) to isolate meeting and important dates for a projects team
+- ( ) to use a shared calendar with colleagues
+
+
