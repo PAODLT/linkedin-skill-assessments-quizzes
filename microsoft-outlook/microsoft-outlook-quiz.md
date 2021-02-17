@@ -76,3 +76,15 @@ C. Read receipts are expensive, so some organizations turn them off.
 - [ ] an alert
 - [ ] a notice
 - [ ] a bell icon
+
+#### 13. Which is Not a good reason to create a new calendar?
+- [x] to have a different view of your calendar
+- [ ] to keep track of personal events in a work settings
+- [ ] to isolate meeting and important dates for a project team
+- [ ] to use as a share calendar with collegues
+
+#### 14. A message on your summary list appears with paper clip icon and an arrow pointing to the left. What does this indicate?
+- [ ] the message has been flagged and contains an attachment
+- [ ] the message has been forwarded and contains an attachment
+- [x] the message has been replied and contains an attachment
+- [ ] none of these answer
