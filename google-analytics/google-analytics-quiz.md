@@ -267,7 +267,7 @@
 #### Q44. What can you use as the basis for remarketing within Google Ads?
 - [ ] dynamics
 - [ ] personas
-- [ ] audiences
+- [x] audiences
 - [ ] tags
 
 #### Q45. If you want to exclude traffic to your website from people on your company network, what do you create?
@@ -356,7 +356,7 @@
 
 #### Q59.If a user fills in a contact form and provides an email address, which report would contain that information?
 - [ ] Behavior > Events > Overview
-- [ ] Acquisition > Social > Form Submissions
+- [x] Acquisition > Social > Form Submissions
 - [ ] Acquisition > Social > Users Flow
 - [ ] No report contains this information.
 
