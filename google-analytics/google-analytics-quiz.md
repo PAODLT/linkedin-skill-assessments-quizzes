@@ -267,7 +267,7 @@
 #### Q44. What can you use as the basis for remarketing within Google Ads?
 - [ ] dynamics
 - [ ] personas
-- [ ] audiences
+- [x] audiences
 - [ ] tags
 
 #### Q45. If you want to exclude traffic to your website from people on your company network, what do you create?
