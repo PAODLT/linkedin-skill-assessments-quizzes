@@ -1,7 +1,7 @@
 ## Microsoft Outlook
 
 #### 1. What can you set a reminder for in Outlook?
-- [ ] all of these answers
+- [x] all of these answers (you can set a contact events as a birthday, a letting or event, or remind to answer an email)
 - [ ] contacts
 - [ ] email messages
 - [ ] appointments and meetings
@@ -14,12 +14,12 @@
 
 #### 3. Your boss sends you an email with a request to set up a meeting and copies all meeting attendees on the message. What is the fastest way to create the calendar appointment
 - [ ] Click New Items > New Appointment.
-- [ ] Click Calendar > New Meeting, and then copy and paste information as needed.
+- [x] Click Calendar > New Meeting, and then copy and paste information as needed.
 - [ ] with the email open, click Meeting on the Home ribbon or Message tab.
 - [ ] Click Reply All.
 
 #### 4. You are running low on Outlook storage space. How might you address this problem?
-- [ ]  all of these answers
+- [x]  all of these answers
 - [ ] Archive messages you are done with.
 - [ ] Save and then remove large attachments from messages
 - [ ] Sort by size and then delete large messages.
@@ -36,7 +36,7 @@ C. Read receipts are expensive, so some organizations turn them off.
 - [ ] A,B,and C
 
 #### 6. What address box should you use if you want to hide message recipients from each other?
-- [ ] Bcc
+- [x] Bcc
 - [ ] to
 - [ ] cc
 - [ ] From
@@ -45,17 +45,17 @@ C. Read receipts are expensive, so some organizations turn them off.
 - [ ] to Diane and Joey
 - [ ] to Diane and bcc Joey
 - [ ] to Joey and bcc Diane
-- [ ] to Diane and cc Joey
+- [x] to Diane and cc Joey
 
 #### 8. Which choice is not an attachment?
 - [ ] a PDF document included with an email
 - [ ] a Word document included with an email
 - [ ] (Â) a calendar item included with an email
-- [ ] a hyperlink included in an email
+- [x] a hyperlink included in an email
 
 #### 9. You can use a___to indicate that a message requires further action and a__to organize the message.
 - [ ] folder; category
-- [ ] flag; tag
+- [x] flag; tag
 - [ ] category; flag
 - [ ] flag; category
 
@@ -67,13 +67,13 @@ C. Read receipts are expensive, so some organizations turn them off.
 
 #### 11. What does Outlook automatically point out to you when you are invited to a meeting?
 - [ ] if your attendance is mandatory
-- [ ] ifthe meeting is high or low priority
+- [ ] if the meeting is high or low priority
 - [ ] the amount of time you have between this meeting and your next event
 - [ ] if the meeting is adjacent to another event in your calendar
 
 #### 12. What appears on your screen whenever a new email arrives?
 - [ ] an emoji
-- [ ] an alert
+- [x] an alert
 - [ ] a notice
 - [ ] a bell icon
 
@@ -89,18 +89,18 @@ C. Read receipts are expensive, so some organizations turn them off.
 - [ ] Filter
 - [ ] Junk Mail
 - [ ] The Delete Key
-- [ ] Clean Up Conversation
+- [x] Clean Up Conversation
 
 #### 15. You have sent several emails to a customer and have not received a response. What option do you set to know whether the customer receives your messages?
 
 - [ ] Delivery receipt
-- [ ] All of these answers
+- [x] All of these answers
 - [ ] Read receipt
 - [ ] Tracking
 
 #### 16. A message on your summary list appears with a paper clip icon and an arrow pointing to the left. What does this indicate?
 
-- [ ] The message has been replied to and contains an attachment
+- [x] The message has been replied to and contains an attachment
 - [ ] The message has been flagged and contains an attachment
 - [ ] None of these answers
 - [ ] The message has been forwarded and contains an attachment
@@ -121,7 +121,7 @@ C. Read receipts are expensive, so some organizations turn them off.
 
 #### 19. There are two types of Outlook rules. One is server-based rules, which run for Exchange Server. What are the other kind, which in part or in whole cannot run on Exchange Server, and when do the execute?
 
-- [ ] client-only rules; when Outlook is running
+- [x] client-only rules; when Outlook is running
 - [ ] Outlook-based rules; when Outlook is running
 - [ ] None of these answers
 - [ ] Outlook-only rules; when Outlook is offline
@@ -137,7 +137,7 @@ C. Read receipts are expensive, so some organizations turn them off.
 
 - [ ] Sort the messages by size then filter by Has: Attachments
 - [ ] Sort the messages by sender
-- [ ] Sort the messages by Has: Attachments and then filter by Is: Large
+- [x] Sort the messages by Has: Attachments and then filter by Is: Large
 - [ ] Sort the messages by Has: Attachments and then by size
 
 #### 22. What is not a built-in search filter for message folder?
@@ -157,7 +157,7 @@ C. Read receipts are expensive, so some organizations turn them off.
 #### 24. What is the fastest way to find a message sent by Bonnie Bradford that includes an attachment?
 
 - [ ] Search based on sender then filter by Has Attachments
-- [ ] Search for "has:attachments" and then filter by Bonnie Bradford
+- [x] Search for "has:attachments" and then filter by Bonnie Bradford
 - [ ] All of these answers
 - [ ] Enter "Bonnie Bradford attachment" in the search box
 
@@ -165,19 +165,19 @@ C. Read receipts are expensive, so some organizations turn them off.
 
 - [ ] color
 - [ ] folder
-- [ ] name
+- [x] name (a bit tricky because the color is optional, but the name is important)
 - [ ] name and color
 
 #### 26. Outlook autocompletes email addresses you have used previously, including addresses that you mistyped. How can you remove an incorrect autocomplete suggestion?
 
-- [ ] Search the autocomplete library, select the incorrect suggestion, and then click Delete
+- [x] Search the autocomplete library, select the incorrect suggestion, and then click Delete
 - [ ] Close Outlook, reboot your computer, and restart Outlook
 - [ ] Wait until the suggestion appears again, then highlight it and press the Delete key
 - [ ] Delete the corresponding contact
 
 #### 27. What is the key difference between an appointment and a meeting?
 
-- [ ] A meeting includes other people
+- [x] A meeting includes other people
 - [ ] An appointment is automatically marked as busy while a meeting is marked as tentative
 - [ ] An appointment can be all day, while a meeting has specific start and end time
 - [ ] A meeting has specific start and end times
@@ -185,21 +185,21 @@ C. Read receipts are expensive, so some organizations turn them off.
 #### 28. When adding an email account to Outlook, why might you need to enter the server settings manually?
 
 - [ ] You did not write down your password
-- [ ] Outlook cannot detect the proper settings for your server automatically
+- [x] Outlook cannot detect the proper settings for your server automatically
 - [ ] You do not have an email server
 - [ ] The server is not on the list of Microsoft approved servers
 
 #### 29. You are viewing a date three months in the future, in Month view. You switch to check an email in the same window. When you switch back to the calendar, what will Outlook display?
 
 - [ ] the current month
-- [ ] the Month view for a date three months in the future
+- [x] the Month view for a date three months in the future
 - [ ] the current date in Day view
 - [ ] the current date in Week view
 
 #### 30. When you @mention a colleague in an email message, what does not happen?
 
 - [ ] Your colleague's name is highlighted in the message
-- [ ] The colleague is automatically added to the To line
+- [x] The colleague is automatically added to the To line
 - [ ] @ appears next to the message in your colleague's Inbox
 - [ ] @ appears next to the email in your Sent items folder (Sent folder in Outlook for Mac)
 
@@ -208,13 +208,13 @@ C. Read receipts are expensive, so some organizations turn them off.
 - [ ] Right-drag the email message, drop it on the Tasks icon, and click Copy Here as Task with Attachment
 - [ ] Drag the email message and drop it on the Tasks icon
 - [ ] Copy and paste the notes into a new task form
-- [ ] Right-drag the email message, drop it on the Tasks icon, and click Move Here as Task with Attachment
+- [x] Right-drag the email message, drop it on the Tasks icon, and click Move Here as Task with Attachment
 
 #### 32. What is an appropriate use for voting buttons?
 
 - [ ] Asking your supervisor to prioritize a list of tasks
 - [ ] Sending customers a three-question survey about a recent service experience
-- [ ] Asking your colleagues to choose their favorite lunch spot from a list
+- [x] Asking your colleagues to choose their favorite lunch spot from a list
 - [ ] All of these answers
 
 #### 33. You created a meeting for next Tuesday at 2 PM, and several invitees have accepted. How do you change the meeting so it will begin at 1 PM and last for one hour?
@@ -227,7 +227,7 @@ C. Some people have already accepted, so you must cancel this meeting and create
 
 - [ ] B
 - [ ] C
-- [ ] A or B
+- [x] A or B
 - [ ] A
 
 #### 34. What permission allows your delegates to read, create, change, and delete items that they create, but not items that you created?
@@ -235,18 +235,18 @@ C. Some people have already accepted, so you must cancel this meeting and create
 - [ ] Reader
 - [ ] Author
 - [ ] Reviewer
-- [ ] Editor
+- [x] Editor
 
 #### 35. Why might you create an additional contacts folder?
 
 - [ ] To store contacts to share with colleagues
 - [ ] To avoid exceeding 500 contacts per folder limit
 - [ ] To make it faster to search for your contacts
-- [ ] All of these answers
+- [x] All of these answers
 
 #### 36. What is a key difference between flagging a message for follow up and creating a task from them?
 
-- [ ] All of these answers
+- [x] All of these answers
 - [ ] A task can be assigned to another person while a flagged item cannot be delegated
 - [ ] You can set a reminder for a task but not for a flagged item
 - [ ] The flagged message appears only in the Inbox folder; the task appears in the To-Do Bar and task list
@@ -254,7 +254,7 @@ C. Some people have already accepted, so you must cancel this meeting and create
 #### 37. When accepting a meeting invitation, what happens if you click "Do not send a response"?
 
 - [ ] Outlook will send an email to the meeting organizer on your behalf
-- [ ] The meeting organizer will not receive an email with your response, and your response will be recorded
+- [x] The meeting organizer will not receive an email with your response, and your response will be recorded
 - [ ] The meeting organizer will not receive an email with your response, and your response will not be recorded
 - [ ] None of these answers
 
@@ -263,26 +263,26 @@ C. Some people have already accepted, so you must cancel this meeting and create
 - [ ] You set time constraints for looking events
 - [ ] You automatically switch to list view
 - [ ] You change the time zone that your calendar uses
-- [ ] You change the number of hours visible on the grid
+- [x] You change the number of hours visible on the grid
 
 #### 38. Which is not a good reason to create a new calendar?
 
 - [ ] To keep track of personal events in a work setting
 - [ ] To use a shared calendar with colleagues
 - [ ] To isolate meetings and important dates for a project team
-- [ ] To have a different view of your calendar
+- [x] To have a different view of your calendar
 
 #### 39. Under what conditions can you successfully recall a message?
 
-- [ ] Only when the recipient is also using Outlook
+- [x] Only when the recipient is also using Outlook
 - [ ] Only if the email is plain text without attachments
-- [ ] If the email si still in your outbox
+- [x] If the email si still in your outbox
 - [ ] If the email was sent within the past 24 hours
 
 #### 40. What rule can you create in View Settings to color code messages from a particular senderm such as your manager?
 
 - [ ] Format Columns
-- [ ] Conditional Formatting
+- [x] Conditional Formatting
 - [ ] Group By
 - [ ] By Sender
 
@@ -291,7 +291,7 @@ C. Some people have already accepted, so you must cancel this meeting and create
 - [ ] Export your contacts to Excel, which ash lots of columns; add the data; and then import the contacts back to Outlook
 - [ ] Use the Field Chooser to create two new columns of type Date in the folder
 - [ ] Create a custom contacts form that includes two text boxes to collect this data
-- [ ] All of these answers
+- [x] All of these answers
 
 #### 42. You have created a rule to automatically route emails to the Project A folder. Why might you also add Project A to Favorites? (Select all that apply)
 
@@ -304,6 +304,7 @@ D. Because you cannot create a search folder for a subfolder
 
 - [ ] A and C
 - [ ] A, C, and D
-- [ ] A and B
+- [X] A and B
 - [ ] B and D
+
 
